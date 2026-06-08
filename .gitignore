@@ -1,0 +1,40 @@
+# Compiled files
+*.class
+
+# Build folders
+/build/
+/bin/
+/dist/
+/target/
+
+# Eclipse files
+.settings/
+.metadata/
+.classpath
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Generated folders
+/out/
+
+# NetBeans generated private files
+nbproject/private/
+
+# JDK specific
+replay_pid*
+
+# Ignore generated jars only
+/dist/*.jar
+/build/*.jar
