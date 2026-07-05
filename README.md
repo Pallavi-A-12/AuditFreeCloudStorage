@@ -9,10 +9,10 @@ To overcome this, my project integrates **CP-ABE with deniability**, allowing us
 
 ## Technologies
 
-**Operating System :** Windows 7,8,10
-**Programming Language :** Java (jdk8.0)
-**IDE :** Net Beans 8.0
-**Data Base :** MySQL 5v
+- **Operating System :** Windows 7,8,10
+- **Programming Language :** Java (jdk8.0)
+- **IDE :** Net Beans 8.0
+- **Data Base :** MySQL 5v
 
 ## Screenshots
 
